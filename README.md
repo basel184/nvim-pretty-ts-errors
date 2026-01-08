@@ -24,3 +24,9 @@ Pretty-print TypeScript errors in a Neovim floating window using [@pretty-ts-err
 vim.keymap.set("n", "<leader>d", require("pretty-ts-errors").show_line_diagnostics)
 ```
 Displays formatted diagnostics for the current line. The window closes automatically on cursor move.
+
+If you want to format error messages outside this plugin's provided diagnostic float, you can call `PrettyTsFormat`.
+
+```lua
+vim.fn.PrettyTsFormat(message)
+```
