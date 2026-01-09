@@ -55,7 +55,9 @@ end
 local function format_diagnostic(diagnostic)
 	local source = diagnostic.source or "nvim"
 	local message = diagnostic.message
-	if source == "typescript" then
+	-- typescript is for ts_ls
+	-- ts is for vtsls
+	if source == "typescript" or source == "ts" then
 		local ok, formatted = pcall(vim.fn.PrettyTsFormat, message)
 		if ok and formatted then
 			message = formatted
